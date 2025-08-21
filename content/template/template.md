@@ -1,12 +1,12 @@
 ---
-title: "index"
+title: "{{title}}"
 description: Sem valor
 tags: []
-draft: false
-date: "2025-08-21"
+draft: true
+date: "{{date:YYYY-MM-DD}}"
 ---
 
-# index
+# {{title}}
 
 ## Introdução
 
